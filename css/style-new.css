@@ -310,7 +310,7 @@ hr.bannerhr{width:80px;border:2px solid #554a46}
 @media screen and (max-width:600px){
 .panel-title a{width:300px;text-decoration:none!important;color:#554a46;font-size:18px;font-weight:700;line-height:21px;padding:0}
 .panel-title a.collapsed{text-decoration:none!important;color:#212121;font-size:18px;font-weight:500;line-height:21px;padding:0}
-.para-faq{padding:10px 0 0 0;font-size:16px;color:#636363}
+.para-faq{padding:10px 0 0 0;font-size:16px;color:#212121}
 .faq-box-cls{padding-bottom:15px;margin-bottom:15px;border-bottom:1px solid #b1b1b1}
 .panel-title a:after{content:"-";float:right;font-size:25px;font-weight:300;position:absolute;right:25px;margin:0}
 .faq_sec_pad{padding-top:30px;padding-bottom:30px}
