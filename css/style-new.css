@@ -378,7 +378,7 @@ hr.bannerhr{width:80px;border:2px solid #554a46}
 /*==========================================*/
 .form-check-label{font-size:10px}
 .open-btn-cls-new{background-color:#e70e24;color:#fff;font-size:20px;width:100%;text-decoration:none;padding:20px 0;height:60px;text-transform:uppercase;font-weight:600;font-size:16px;line-height:24px}
-.open-button{background-color:#1b75ab;color:#fff;padding:10px 12px;border:none;cursor:pointer;position:fixed;bottom:18px;right:19px;width:250px;font-weight:500;font-size:16px;line-height:20px}
+.open-button{background-color:#544a46;color:#fff;padding:10px 12px;border:none;cursor:pointer;position:fixed;bottom:18px;right:19px;width:250px;font-weight:500;font-size:16px;line-height:20px}
 .chat-popup{width:320px;display:none;position:fixed;bottom:0;right:15px;z-index:9}
 .form-container{background:#fff;box-shadow:0 2px 5px rgba(0,0,0,.3);border-radius:0;padding:20px}
 .form-container .cancel{position:absolute;right:-14px;top:-22px;width:48px;height:48px;background-color:#212121;padding:16px;line-height:15px;border:none;cursor:pointer;margin-bottom:10px;border-radius:50%;box-shadow:0 2px 5px rgba(0,0,0,.3);opacity:.8}
