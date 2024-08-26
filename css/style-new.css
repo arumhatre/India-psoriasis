@@ -71,7 +71,7 @@ hr.bannerhr{width:100%;border:3px solid #554a46}
 .main-banner-heading-n{font-size:24px;font-weight:400;color:#554a46}
 .banner-sub-heding-n{font-size:20px;font-weight:400}
 .blue-strip-offer-section{text-align:right;color:#fff;margin-top:-20px}
-.main-banner-heading-n span{font-weight:700;color:#554a46;font-size:58px;margin-bottom:15px}
+.main-banner-heading-n span{font-weight:700;color:#554a46;font-size:42px;margin-bottom:15px}
 .banner-content-cls-img-offer{width:70%}
 }
 @media (max-width:992px){
@@ -87,7 +87,7 @@ hr.bannerhr{width:80px;border:2px solid #554a46}
 @media (max-width:600px){
 .banner-up-para{font-size:25px;margin-bottom:0;font-weight:500}
 .main-banner-heading-n{font-size:35px;line-height:40px;font-weight:400;color:#554a46}
-.main-banner-heading-n span{font-weight:700;color:#554a46;line-height:60px}
+.main-banner-heading-n span{font-weight:700;color:#554a46;line-height:60px; font-size: 58px}
 .banner-sub-heding-n{font-size:21px;font-weight:400}
 .banner-main-icon-heading{padding-top:10px;padding-left:15px;font-size:18px;line-height:25px;color:#212121;font-weight:500}
 .banner-list{padding-right:0;font-size:18px;color:#30292b;padding-inline-start:25px}
