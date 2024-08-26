@@ -30,64 +30,43 @@ header{background:#fef4f0}
 /*==========================================*/
 .banner-section-cls{background-color:#fff4f0}
 .banner-up-para{font-size:40px;margin-bottom:0;font-weight:500}
-.main-banner-heading-n{font-size:40px;font-weight:400;color:#554a46}
-.main-banner-heading-n span{font-weight:700;color:#554a46; font-size: 72px; margin-bottom: 15px}
-.banner-sub-heding-n{font-size:26px;font-weight:400;margin-bottom:0; color: #5b5b5b;}
+.main-banner-heading-n{font-size:40px;font-weight:500;color:#554a46}
+.main-banner-heading-n span{font-weight:700;color:#554a46}
+.banner-sub-heding-n{font-size:28px;font-weight:400;margin-bottom:0}
 .banner-list{padding-right:0;font-size:21px;color:#30292b;padding-inline-start:25px}
 hr.bannerhr{width:100%;border:3px solid #554a46}
 .banner-main-icon-heading{padding-top:10px;padding-left:15px;font-size:24px;line-height:30px;color:#212121;font-weight:500}
 .blue-strip-offer-section{text-align:right;color:#fff;margin-top:-35px}
 #carouselExampleIndicators .carousel-control-next,.carousel-control-prev{display:none!important}
 #carouselExampleIndicators .carousel-indicators{z-index:5}
-.br-for-mob-only{
-	display: none;
-}
 @media (max-width:1600px){
 .banner-up-para{font-size:30px;margin-bottom:0;font-weight:500}
-.main-banner-heading-n{font-size:34px;font-weight:400;color:#554a46}
-.banner-sub-heding-n{font-size:24px;font-weight:400}
+.main-banner-heading-n{font-size:38px;font-weight:500;color:#554a46}
+.banner-sub-heding-n{font-size:26px;font-weight:400}
 .banner-list{padding-right:0;font-size:18px;color:#30292b;padding-inline-start:25px}
 .blue-strip-offer-section{text-align:right;color:#fff;margin-top:-25px;font-size:16px}
 }
 @media (max-width:1500px){
-.main-banner-heading-n{font-size:32px;font-weight:400;color:#554a46}
+.main-banner-heading-n{font-size:35px;font-weight:500;color:#554a46}
 .blue-strip-offer-section{text-align:right;color:#fff;margin-top:-25px;font-size:15px}
-.main-banner-heading-n span {
-    font-weight: 700;
-    color: #554a46;
-    font-size: 65px;
-    margin-bottom: 15px;
-}
-.banner-sub-heding-n{font-size:21px;font-weight:400}
-
 }
 @media (max-width:1400px){
-.main-banner-heading-n{font-size:30px;font-weight:500;color:#554a46}
+.main-banner-heading-n{font-size:35px;font-weight:500;color:#554a46}
 .blue-strip-offer-section{text-align:right;color:#fff;margin-top:-25px;font-size:14px}
-
 }
 @media (max-width:1200px){
 .banner-up-para{font-size:24px;margin-bottom:0;font-weight:500}
-.main-banner-heading-n{font-size:32px;font-weight:400;color:#554a46}
+.main-banner-heading-n{font-size:30px;font-weight:500;color:#554a46}
 .banner-sub-heding-n{font-size:24px;font-weight:400}
 .banner-list{padding-right:0;font-size:16px;color:#30292b;padding-inline-start:25px}
 .mob-cls-ban-icon{width:55px;height:55px}
 .banner-main-icon-heading{padding-top:12px;padding-left:12px;font-size:16px;line-height:25px;color:#212121;font-weight:500}
 .blue-strip-offer-section{text-align:right;color:#fff;margin-top:-25px;font-size:12px}
-.br-for-mob-only{
-	display: block;
-}
 }
 @media (max-width:1024px){
-.main-banner-heading-n{font-size:24px;font-weight:400;color:#554a46}
+.main-banner-heading-n{font-size:24px;font-weight:500;color:#554a46}
 .banner-sub-heding-n{font-size:20px;font-weight:400}
 .blue-strip-offer-section{text-align:right;color:#fff;margin-top:-20px}
-.main-banner-heading-n span {
-    font-weight: 700;
-    color: #554a46;
-    font-size: 58px;
-    margin-bottom: 15px;
-}
 }
 @media (max-width:992px){
 .blue-strip-offer-section{text-align:right;color:#fff;margin-top:-15px;font-size:12px}
@@ -101,23 +80,23 @@ hr.bannerhr{width:80px;border:2px solid #554a46}
 }
 @media (max-width:600px){
 .banner-up-para{font-size:25px;margin-bottom:0;font-weight:500}
-.main-banner-heading-n{font-size:35px;line-height:40px;font-weight:400;color:#554a46}
-.main-banner-heading-n span{font-weight:700;color:#554a46; line-height: 60px}
-.banner-sub-heding-n{font-size:21px;font-weight:400}
+.main-banner-heading-n{font-size:32px;line-height:40px;font-weight:500;color:#554a46}
+.main-banner-heading-n span{font-weight:700;color:#554a46}
+.banner-sub-heding-n{font-size:24px;font-weight:400}
 .banner-main-icon-heading{padding-top:10px;padding-left:15px;font-size:18px;line-height:25px;color:#212121;font-weight:500}
 .banner-list{padding-right:0;font-size:18px;color:#30292b;padding-inline-start:25px}
 .mob-cls-ban-icon{width:70px;height:70px}
 .blue-strip-offer-section{text-align:right;color:#fff;margin-top:-12px;font-size:14px}
 }
 @media (max-width:430px){
-.main-banner-heading-n{font-size:32px;line-height: 42px;font-weight:400;color:#554a46}
+.main-banner-heading-n{font-size:28px;line-height: normal;font-weight:500;color:#554a46}
 }
 @media (max-width:390px){
-.main-banner-heading-n{font-size:30px;line-height: 40px;font-weight:400;color:#554a46}
-.banner-sub-heding-n{font-size:21px;font-weight:400}
+.main-banner-heading-n{font-size:28px;line-height: normal;font-weight:500;color:#554a46}
+.banner-sub-heding-n{font-size:22px;font-weight:400}
 }
 @media (max-width:360px){
-.main-banner-heading-n{font-size:28px;line-height:35px;font-weight:400;color:#554a46}
+.main-banner-heading-n{font-size:28px;line-height:35px;font-weight:500;color:#554a46}
 }
 @media (max-width:300px){
 .banner-main-icon-heading{padding-top:10px;padding-left:15px;font-size:14px;line-height:22px;color:#212121;font-weight:500}
